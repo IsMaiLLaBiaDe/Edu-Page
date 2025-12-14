@@ -63,7 +63,7 @@
 
         /* Just for demonstrating scrollable content */
         .content {
-            height: 800px; /* Make content taller than the container to enable scrolling */
+            height: 100vh; /* Make content taller than the container to enable scrolling */
 
         }
         p {
@@ -153,5 +153,6 @@
             }
         });
     </script>
+
 
 </div></div></body></html>
